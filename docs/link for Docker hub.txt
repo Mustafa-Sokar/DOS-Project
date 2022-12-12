@@ -1,0 +1,11 @@
+images:
+
+https://hub.docker.com/r/mustafaokar/front_server
+
+https://hub.docker.com/r/mustafaokar/order_1
+
+https://hub.docker.com/r/mustafaokar/order_2
+
+https://hub.docker.com/r/mustafaokar/catalog_1
+
+https://hub.docker.com/r/mustafaokar/catalog_2
